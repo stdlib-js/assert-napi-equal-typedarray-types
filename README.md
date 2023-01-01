@@ -49,7 +49,7 @@ npm install @stdlib/assert-napi-equal-typedarray-types
 ## Usage
 
 ```javascript
-var headerDir = require( '@stdlib/assert-napi-equal-types' );
+var headerDir = require( '@stdlib/assert-napi-equal-typedarray-types' );
 ```
 
 #### headerDir
@@ -80,7 +80,7 @@ var dir = headerDir;
 ## Examples
 
 ```javascript
-var headerDir = require( '@stdlib/assert-napi-equal-types' );
+var headerDir = require( '@stdlib/assert-napi-equal-typedarray-types' );
 
 console.log( headerDir );
 // => <string>
@@ -225,7 +225,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
