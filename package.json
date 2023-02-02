@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-napi-equal-typedarray-types",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Assert that two Node-API typed array data types are equal.",
   "license": "Apache-2.0",
   "author": {
