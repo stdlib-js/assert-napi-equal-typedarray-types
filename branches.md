@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/napi/equal-typedarray-types"
-click B href "https://github.com/stdlib-js/assert-napi-equal-typedarray-types/tree/main"
-click C href "https://github.com/stdlib-js/assert-napi-equal-typedarray-types/tree/production"
-click D href "https://github.com/stdlib-js/assert-napi-equal-typedarray-types/tree/esm"
-click E href "https://github.com/stdlib-js/assert-napi-equal-typedarray-types/tree/deno"
-click F href "https://github.com/stdlib-js/assert-napi-equal-typedarray-types/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/napi/equal-typedarray-types"
+%% click B href "https://github.com/stdlib-js/assert-napi-equal-typedarray-types/tree/main"
+%% click C href "https://github.com/stdlib-js/assert-napi-equal-typedarray-types/tree/production"
+%% click D href "https://github.com/stdlib-js/assert-napi-equal-typedarray-types/tree/esm"
+%% click E href "https://github.com/stdlib-js/assert-napi-equal-typedarray-types/tree/deno"
+%% click F href "https://github.com/stdlib-js/assert-napi-equal-typedarray-types/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/assert/napi/equal-typedarray-types
