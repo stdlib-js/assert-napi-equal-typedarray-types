@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "@stdlib/assert-napi-status-ok": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
     "@stdlib/array-typed": "^0.3.0",
@@ -75,11 +75,6 @@
     "validate",
     "validation"
   ],
-  "__stdlib__": {
-    "envs": {
-      "browser": false
-    }
-  },
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
